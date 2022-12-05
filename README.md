@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/lJJahXK.png" alt="Salesforce logo"/>
+<img src="https://i.imgur.com/lJJahXK.png" height="50%" width="50%" alt="Salesforce logo"/>
 </p>
 
 <h1>Salesforce - Project Management</h1>
@@ -14,7 +14,7 @@ Brief tutorial showcasing the steps I took to create a project management applic
 
 - Schema Builder
 - Project and Timesheet Object
-- Timekeeping URL-driven report for projects
+- URL-Driven Report Configuration for Projects
 
 <h2>Project Management</h2>
 
@@ -22,7 +22,7 @@ Brief tutorial showcasing the steps I took to create a project management applic
 <img src="https://i.imgur.com/whiLiyM.png" height="80%" width="80%" alt="Schema Creation"/>
 </p>
 <p>
-First and foremost, to lay the foundation of my application, I created an ERD, or an Entity Relationship Diagram to show links between the entities or objects created and the relationship between them, then went on to create the schema. I created two main objects, the projects object and timesheet object, then went on to create a report that would sum the hours worked on a given project! 
+First and foremost, to lay the foundation of my application, I created an ERD, or an Entity Relationship Diagram to show links between the entities or objects created and the relationship between them, then went on to create the schema. I created two main objects, the project object and timesheet object, and added their various fields or attributes within the Schema Builder within the Salesforce environment.
 <br/>
 -------------------------------------------------------------
 <br/>
@@ -31,10 +31,10 @@ An ERD is a logical, visual diagram of entities, such as people, things or objec
 <br/>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5OfB25G.png" height="80%" width="80%" alt="Creating Report "/>
 </p>
 <p>
-...
+Using the Report Types in Setup, I created a new custom report type that uses the project and timesheet objects. The reports will basically summarize the time for projects. In the report builder, since it is url-driven, I followed the schema created with the projects selected by ID, or accounts, and with records from timesheets. After, I edited the sharing settings and created the custom tabs. 
 </p>
 <br />
 
