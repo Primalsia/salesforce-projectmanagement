@@ -50,9 +50,11 @@ I used the App Manager in Setup, to create a new lightning app and followed thro
 Here is my completed project management application called Projedex:
 </p>
 <p>
-<img src="https://i.imgur.com/6pWohub.png" height="50%" width="50%" alt="Showcasing App"/><img src="https://i.imgur.com/Un5iIlo.png" height="50%" width="50%" alt="Projects Tab"/>
-<img src="https://i.imgur.com/nGHJczi.png" height="50%" width="50%" alt="Timesheets Tab"/><img src="https://i.imgur.com/xw7H0Rg.png" height="50%" width="50%" alt="Showing Specific Timesheet"/>
-<img src="https://i.imgur.com/WeI6ji6.png" height="50%" width="50%" alt="Reports Tab Focusing on Report"/>
+<img src="https://i.imgur.com/6pWohub.png" height="80%" width="80%" alt="Showcasing App"/>
+<img src="https://i.imgur.com/Un5iIlo.png" height="80%" width="80%" alt="Projects Tab"/>
+<img src="https://i.imgur.com/nGHJczi.png" height="80%" width="80%" alt="Timesheets Tab"/>
+<img src="https://i.imgur.com/xw7H0Rg.png" height="80%" width="80%" alt="Showing Specific Timesheet"/>
+<img src="https://i.imgur.com/WeI6ji6.png" height="80%" width="80%" alt="Reports Tab Focusing on Report"/>
 </p>
 <br/>
 
