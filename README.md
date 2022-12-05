@@ -31,18 +31,29 @@ An ERD is a logical, visual diagram of entities, such as people, things or objec
 <br/>
 
 <p>
-<img src="https://i.imgur.com/5OfB25G.png" height="80%" width="80%" alt="Creating Report "/>
+<img src="https://i.imgur.com/5OfB25G.png" height="80%" width="80%" alt="Creating Report"/>
 </p>
 <p>
 Using the Report Types in Setup, I created a new custom report type that uses the project and timesheet objects. The reports will basically summarize the time for projects. In the report builder, since it is url-driven, I followed the schema created with the projects selected by ID, or accounts, and with records from timesheets. After, I edited the sharing settings and created the custom tabs. 
 </p>
-<br />
+<br/>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OlEWDL2.png" height="60%" width="60%" alt="Creating an App"/>
 </p>
 <p>
-...
+I used the App Manager in Setup, to create a new lightning app and followed through the prompts. I named this application, Projedex.
 </p>
-<br />
+<br/>
+
+<p>
+Here is my completed project management application called Projedex:
+</p>
+<p>
+<img src="https://i.imgur.com/6pWohub.png" height="50%" width="50%" alt="Showcasing App"/><img src="https://i.imgur.com/Un5iIlo.png" height="50%" width="50%" alt="Projects Tab"/>
+<img src="https://i.imgur.com/nGHJczi.png" height="50%" width="50%" alt="Timesheets Tab"/><img src="https://i.imgur.com/xw7H0Rg.png" height="50%" width="50%" alt="Showing Specific Timesheet"/>
+<img src="https://i.imgur.com/WeI6ji6.png" height="50%" width="50%" alt="Reports Tab Focusing on Report"/>
+</p>
+<br/>
+
 <a href = https://trailblazer.me/id/ablanding>Check me out on trailblazer!</a>
